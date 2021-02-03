@@ -10,4 +10,6 @@ We show that agents evolving in open-endedly evolving environments exhibit large
 
 <img src="https://github.com/EmmaStensby/poet-morphology/blob/main/readme_images/agent_example.gif" alt="gif1" width="350" align="left" style="margin: 10px"/> <img src="https://github.com/EmmaStensby/poet-morphology/blob/main/readme_images/agent_example_2.gif" alt="gif2" width="350" align="right" style="margin: 10px"/>
 
+<br />
+
 ## How to cite
