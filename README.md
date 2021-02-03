@@ -1,6 +1,6 @@
 # Poet with morphology evolution
 
-This repository contains the source code for our paper *Co-optimising Robot Morphology and Controller in a Simulated Open-ended Environment*.
+This repository contains a revised version of the source code for our paper *Co-optimising Robot Morphology and Controller in a Simulated Open-ended Environment*.
 
 **Abstract.** Designing robots by hand can be costly and time consuming, especially if the robots have to be created with novel materials, or be robust to internal or external changes. In order to create robots automatically, without the need for human intervention, it is necessary to optimise both the behaviour and the body design of the robot. However, when co-optimising the morphology and controller of a locomoting agent the morphology tends to converge prematurely, reaching a local optimum. Approaches such as explicit protection of morphological innovation have been used to reduce this problem, but it might also be possible to increase exploration of morphologies using a more indirect approach.
 
