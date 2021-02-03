@@ -8,4 +8,6 @@ We explore how changing the environment, where the agent locomotes, affects the 
 
 We show that agents evolving in open-endedly evolving environments exhibit larger morphological diversity in their population than agents evolving in hand crafted curricula of environments. POET proved capable of creating a curriculum of environments which encouraged both diversity and quality in the population. This suggests that POET can be a promising approach to reduce premature convergence in co-optimisation of morphology and controllers.
 
+span><img src="https://github.com/EmmaStensby/poet-morphology/blob/main/readme_images/agent_example.gif" alt="DyRET" width="300" align="right" style="margin: 5px"/>
+
 ## How to cite
