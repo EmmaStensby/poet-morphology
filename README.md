@@ -9,3 +9,40 @@ We explore how changing the environment, where the agent locomotes, affects the 
 We show that agents evolving in open-endedly evolving environments exhibit larger morphological diversity in their population than agents evolving in hand crafted curricula of environments. POET proved capable of creating a curriculum of environments which encouraged both diversity and quality in the population. This suggests that POET can be a promising approach to reduce premature convergence in co-optimisation of morphology and controllers.
 
 <img src="https://github.com/EmmaStensby/poet-morphology/blob/main/readme_images/agent_example.gif" alt="gif1" width="380" align="left" style="margin: 10px"/> <img src="https://github.com/EmmaStensby/poet-morphology/blob/main/readme_images/agent_example_2.gif" alt="gif2" width="380" align="left" style="margin: 10px"/>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
+
+The article can be found at:
+
+https://arxiv.org/abs/2104.03062
+
+
+Cite as:
+
+
+
+<pre>
+E. H. Stensby, K. O. Ellefsen, and K. Glette. Co-optimising robot morphology and controller 
+in a simulated open-ended environment. <em>Applications of Evolutionary Computation</em>, 
+pages 34–49, Cham, 2021. Springer International Publishing.
+</pre>
+
+
+
+```
+@InProceedings{10.1007/978-3-030-72699-7_3,
+author="Stensby, Emma Hjellbrekke
+and Ellefsen, Kai Olav
+and Glette, Kyrre",
+editor="Castillo, Pedro A.
+and Jim{\'e}nez Laredo, Juan Luis",
+title="Co-optimising Robot Morphology and Controller in a Simulated Open-Ended Environment",
+booktitle="Applications of Evolutionary Computation",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="34--49",
+isbn="978-3-030-72699-7"
+}
+```
