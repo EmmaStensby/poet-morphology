@@ -17,6 +17,7 @@ The article can be found at:
 
 https://arxiv.org/abs/2104.03062
 
+https://link.springer.com/chapter/10.1007/978-3-030-72699-7_3
 
 Cite as:
 
